@@ -1,3 +1,5 @@
 .env
 test_work_with_secrets.py
-example_for_log.py
+*.log
+name_demo.py
+name_demo2.py
