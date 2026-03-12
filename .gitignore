@@ -1,2 +1,3 @@
 .env
 test_work_with_secrets.py
+example_for_log.py
